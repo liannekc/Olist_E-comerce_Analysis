@@ -9,3 +9,5 @@ Question 1: What is our monthly sales growth trend, and are we losing money on c
 Question 2: Which geographic states are driving revenue, and do they have different purchasing power?
 
 Question 3: Are multi-item orders worth encouraging, or do shipping costs penalize larger baskets?
+
+Link to Dataset: https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce
